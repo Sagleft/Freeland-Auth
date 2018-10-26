@@ -1,4 +1,11 @@
+## Сайты, использующие Freeland OAuth
 
+ 1. [MFCoin Escrow](https://bazar.mfcoin.net)
+ 2. [Рубрикатор Фриленда](https://pages.freeland.land)
+ 3. [Сервис локальных голосований](https://vote.mfcoin.su/)
+ 4. [MFCoin Faucet](https://faucet.mfcoin.su/)
+ 5. [Сервис MFinotaurAPI](https://mfinotaur.mfcoin.su)
+ 6. [Сервис Freeland GameID](https://freeland-game.ru/)
 
 # Установка
 
@@ -43,7 +50,7 @@ composer update
 Получить client_id, client_secret можно подав заявку:
 
 * *Вариант 1.*
-написать заявку на форуме: https://forum.mfcoin.net/topic/278 в заявке укажите **свой email** с profile.mfcoin, **наименование** вашего сайта или сервиса и **redirect_url** по которому перенаправлять пользователей после авторизации.
+[написать заявку на форуме](https://forum.mfcoin.net/topic/278): в заявке укажите **свой email** с profile.mfcoin, **наименование** вашего сайта или сервиса и **redirect_url** по которому перенаправлять пользователей после авторизации.
 
 * *Вариант 2.*
 Напишите [Alexander Mamchenkov](https://tele.click/alex_mamchenkov) в Telegram. Сообщите **свой email** с profile.mfcoin, **наименование** вашего сайта или сервиса и **redirect_url** по которому перенаправлять пользователей после авторизации.
