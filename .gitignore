@@ -1,0 +1,4 @@
+/vendor
+composer.lock
+start.bat
+auth_config.php
