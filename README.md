@@ -1,10 +1,15 @@
 
-# Freeland-Auth
-Пример авторизации на вашем сайте с использованием входа через учетную запись Freeland
-
 # Установка
 
-Выполните
+Клонируйте репозиторий
+```
+git clone https://github.com/Sagleft/Freeland-Auth.git
+```
+или через SSH
+```
+git clone git@github.com:Sagleft/Freeland-Auth.git
+```
+
 ```
 composer update
 ```
