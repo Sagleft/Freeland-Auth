@@ -54,3 +54,9 @@ composer update
 
 * *Вариант 2.*
 Напишите [Alexander Mamchenkov](https://tele.click/alex_mamchenkov) в Telegram. Сообщите **свой email** с profile.mfcoin, **наименование** вашего сайта или сервиса и **redirect_url** по которому перенаправлять пользователей после авторизации.
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
